@@ -1,0 +1,13 @@
+D:\C#\Labs\Lab2\Months\Months\bin\Debug\netcoreapp3.1\Months.exe
+D:\C#\Labs\Lab2\Months\Months\bin\Debug\netcoreapp3.1\Months.deps.json
+D:\C#\Labs\Lab2\Months\Months\bin\Debug\netcoreapp3.1\Months.runtimeconfig.json
+D:\C#\Labs\Lab2\Months\Months\bin\Debug\netcoreapp3.1\Months.runtimeconfig.dev.json
+D:\C#\Labs\Lab2\Months\Months\bin\Debug\netcoreapp3.1\Months.dll
+D:\C#\Labs\Lab2\Months\Months\bin\Debug\netcoreapp3.1\Months.pdb
+D:\C#\Labs\Lab2\Months\Months\obj\Debug\netcoreapp3.1\Months.csprojAssemblyReference.cache
+D:\C#\Labs\Lab2\Months\Months\obj\Debug\netcoreapp3.1\Months.AssemblyInfoInputs.cache
+D:\C#\Labs\Lab2\Months\Months\obj\Debug\netcoreapp3.1\Months.AssemblyInfo.cs
+D:\C#\Labs\Lab2\Months\Months\obj\Debug\netcoreapp3.1\Months.csproj.CoreCompileInputs.cache
+D:\C#\Labs\Lab2\Months\Months\obj\Debug\netcoreapp3.1\Months.dll
+D:\C#\Labs\Lab2\Months\Months\obj\Debug\netcoreapp3.1\Months.pdb
+D:\C#\Labs\Lab2\Months\Months\obj\Debug\netcoreapp3.1\Months.genruntimeconfig.cache

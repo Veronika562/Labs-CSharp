@@ -1,0 +1,13 @@
+D:\C#\Labs\Lab2\Triangle\Triangle\bin\Debug\netcoreapp3.1\Triangle.exe
+D:\C#\Labs\Lab2\Triangle\Triangle\bin\Debug\netcoreapp3.1\Triangle.deps.json
+D:\C#\Labs\Lab2\Triangle\Triangle\bin\Debug\netcoreapp3.1\Triangle.runtimeconfig.json
+D:\C#\Labs\Lab2\Triangle\Triangle\bin\Debug\netcoreapp3.1\Triangle.runtimeconfig.dev.json
+D:\C#\Labs\Lab2\Triangle\Triangle\bin\Debug\netcoreapp3.1\Triangle.dll
+D:\C#\Labs\Lab2\Triangle\Triangle\bin\Debug\netcoreapp3.1\Triangle.pdb
+D:\C#\Labs\Lab2\Triangle\Triangle\obj\Debug\netcoreapp3.1\Triangle.csprojAssemblyReference.cache
+D:\C#\Labs\Lab2\Triangle\Triangle\obj\Debug\netcoreapp3.1\Triangle.AssemblyInfoInputs.cache
+D:\C#\Labs\Lab2\Triangle\Triangle\obj\Debug\netcoreapp3.1\Triangle.AssemblyInfo.cs
+D:\C#\Labs\Lab2\Triangle\Triangle\obj\Debug\netcoreapp3.1\Triangle.csproj.CoreCompileInputs.cache
+D:\C#\Labs\Lab2\Triangle\Triangle\obj\Debug\netcoreapp3.1\Triangle.dll
+D:\C#\Labs\Lab2\Triangle\Triangle\obj\Debug\netcoreapp3.1\Triangle.pdb
+D:\C#\Labs\Lab2\Triangle\Triangle\obj\Debug\netcoreapp3.1\Triangle.genruntimeconfig.cache
